@@ -7,7 +7,7 @@
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/Lordraaama/mypersonal",
+    "repository": "https://github.com/Mswpresents/drmnew",
     "success_url": "https://t.me/teamjaishriramofficial",
     "stack": "container",
     "env": {
